@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0283-move-zeroes](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
