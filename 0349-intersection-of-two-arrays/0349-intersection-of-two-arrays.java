@@ -3,9 +3,6 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         for(int a:nums1){
             for(int b: nums2){
-                if(set.contains(b)||set.contains(a)){
-                    continue;
-                }
                 if(a==b){
                     set.add(a);
                 }
