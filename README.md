@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
