@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1470-shuffle-the-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
