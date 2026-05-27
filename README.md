@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
