@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,12 +54,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -82,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
