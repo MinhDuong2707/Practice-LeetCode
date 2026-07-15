@@ -3,7 +3,6 @@ class Solution {
         List<String> arr = new ArrayList<>();
         Deque<Integer> stack = new ArrayDeque<>();
         int i=0;
-        int k=0;
         while(n>0){
             stack.push(n);
             n--;
