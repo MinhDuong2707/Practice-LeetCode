@@ -106,5 +106,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0155-min-stack/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
