@@ -9,13 +9,18 @@ class MinStack {
     
     public void push(int value) {
         stack.push(value);
-        int currentMin = stackSame.isEmpty() ? value : Math.min(value, stackSame.peek());
-        stackSame.push(currentMin);
+        if(stackSame.isEmpty()==true){
+            stackSame.push(value);
+        }else if(stackSame.peek()>value){
+            stackSame.push(value);
+        }else{
+            stackSame.push(stackSame.peek());
+        }
     }
     
     public void pop() {
-        stack.pop();
         stackSame.pop();
+        stack.pop();
     }
     
     public int top() {
