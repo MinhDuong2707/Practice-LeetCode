@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0704-binary-search](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0704-binary-search/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
