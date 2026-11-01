@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MinhDuong2707/Practice-LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sorting
